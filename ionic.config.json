@@ -1,0 +1,7 @@
+{
+  "name": "pandora-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
